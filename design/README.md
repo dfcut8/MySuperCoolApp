@@ -1,4 +1,10 @@
-# Parcel tracking app — screen concepts
+# Parcel tracking app — design
+
+- [Software Architecture Document](software-architecture.md): proposed React Native
+  stack, iOS 27 platform baseline, Liquid Glass design, dependencies, backend,
+  and validation plan.
+
+## Screen concepts
 
 Three light-appearance iOS screen concepts generated with the built-in image generation tool. These are raster design mockups with illustrative data, not implemented application screens.
 
